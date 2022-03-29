@@ -1,0 +1,11 @@
+{
+  "name": "perpus_vue3",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.9",
+    "@vue/cli-plugin-router": "~4.5.9",
+    "@vue/cli-plugin-vuex": "~4.5.9",
+    "@vue/cli-service": "~4.5.9"
+  }
+}
